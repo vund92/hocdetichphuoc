@@ -1,0 +1,18 @@
+{
+  "name": "Ín-Gờ-Lịt Mỗi Ngày",
+  "short_name": "Ín-Gờ-Lịt",
+  "description": "Học tiếng Anh từ con số 0 đến C1: lộ trình, 3.000 từ, 128 bài ngữ pháp, bài đọc có giọng mẫu. Học để tích phước.",
+  "lang": "vi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F6F7FB",
+  "theme_color": "#4B3FA8",
+  "categories": ["education"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
