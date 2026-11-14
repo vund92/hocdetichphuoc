@@ -2,7 +2,7 @@
 // offline, and answers the downloaded reading voices ("giọng đọc mẫu", put in the "ingolit-voice" cache by packs.js)
 // from the cache, ranges included (some browsers ask for a part of an audio file).
 // scripts/build-web.mjs fills in VERSION and FILES.
-const VERSION = "1.20.1-a750609e";
+const VERSION = "1.21.0-306621de";
 const FILES = ["./","app.js","apple-touch-icon.png","audio/ipa/251-2d0.mp3","audio/ipa/252.mp3","audio/ipa/254-2d0.mp3","audio/ipa/259.mp3","audio/ipa/25c-2d0.mp3","audio/ipa/26a.mp3","audio/ipa/28a.mp3","audio/ipa/28c.mp3","audio/ipa/65.mp3","audio/ipa/69-2d0.mp3","audio/ipa/75-2d0.mp3","audio/ipa/README.md","audio/ipa/e6.mp3","data/extra.json","data/grammar.json","data/vocab.json","favicon.png","fonts/be-vietnam-pro-latin-400-italic.woff2","fonts/be-vietnam-pro-latin-400-normal.woff2","fonts/be-vietnam-pro-latin-500-normal.woff2","fonts/be-vietnam-pro-latin-600-normal.woff2","fonts/be-vietnam-pro-latin-700-normal.woff2","fonts/be-vietnam-pro-latin-ext-400-normal.woff2","fonts/be-vietnam-pro-latin-ext-500-normal.woff2","fonts/be-vietnam-pro-latin-ext-600-normal.woff2","fonts/be-vietnam-pro-latin-ext-700-normal.woff2","fonts/be-vietnam-pro-vietnamese-400-italic.woff2","fonts/be-vietnam-pro-vietnamese-400-normal.woff2","fonts/be-vietnam-pro-vietnamese-500-normal.woff2","fonts/be-vietnam-pro-vietnamese-600-normal.woff2","fonts/be-vietnam-pro-vietnamese-700-normal.woff2","fonts/noto-sans-latin-400-normal.woff2","fonts/noto-sans-latin-ext-400-normal.woff2","icon-192.png","icon-512.png","manifest.webmanifest","styles.css"];
 const APP = `ingolit-app-${VERSION}`;
 const VOICE = "ingolit-voice";
